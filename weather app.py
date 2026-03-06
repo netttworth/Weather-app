@@ -1,3 +1,4 @@
+# Weather App - Enter a city name to retrieve current weather conditions, temperature, and a description using the OpenWeatherMap API.
 import sys
 import requests
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel,
@@ -166,4 +167,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     weather_app = WeatherApp()
     weather_app.show()
+
     sys.exit(app.exec_())
