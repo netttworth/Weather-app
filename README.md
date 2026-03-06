@@ -27,12 +27,6 @@ Type a city name into the search bar
 Press Enter or click the search button
 View the current weather, temperature, and description
 
-Project Structure:
-
-weather-app/
-│
-├── weather_app.py      # Main application file
-└── README.md           # Project documentation
 
 
 Made by AJ Minarelli
